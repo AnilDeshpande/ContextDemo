@@ -1,6 +1,7 @@
 package edu.codetutor.youtube.contextdemo;
 
 import android.app.Application;
+import android.content.ContentProvider;
 import android.content.Context;
 
 import com.squareup.leakcanary.LeakCanary;
