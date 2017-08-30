@@ -16,6 +16,8 @@ import java.lang.ref.WeakReference;
 import java.util.Timer;
 import java.util.TimerTask;
 
+import manager.SomeRandomSampleClass;
+
 public class MainActivity extends Activity implements SensorEventListener{
 
     private static final String TAG = MainActivity.class.getSimpleName();

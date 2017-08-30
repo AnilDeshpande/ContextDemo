@@ -10,6 +10,7 @@
     tools:context="edu.codetutor.youtube.contextdemo.MainActivity">
 
     <TextView
+        android:id="@+id/textViewLabel"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="Hello World!" />
